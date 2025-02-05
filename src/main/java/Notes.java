@@ -20,7 +20,7 @@ class Notes {
 		System.out.print("Input an integer: ");
 		num = in.nextInt();
 		in.nextLine(); //clear the scanner - do after nextInt, nextDouble and nextBoolean
-
+		
 		System.out.println(num);
 
 		//Double
